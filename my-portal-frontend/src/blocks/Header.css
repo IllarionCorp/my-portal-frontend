@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    background-color: #1E2022;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.header__title {
+    margin: 0;
+    background-color: white;
+    padding: 10px;
+    border-radius: 40px;
+    color: #52616B;
+    
+}
